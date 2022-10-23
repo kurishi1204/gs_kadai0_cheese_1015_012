@@ -1,7 +1,7 @@
 # gs_kadai0_cheese_1015_012
 gs_kadai0_cheese_1015_012
 
-# 課題0 -Cheese Academy→考案中のサービスページ-
+# 課題0 -Startup Seeker-
 
 ## ①課題内容（どんな作品か）
 - サービスサイト：Startup Seeker（スタートアップシーカー）のLP
